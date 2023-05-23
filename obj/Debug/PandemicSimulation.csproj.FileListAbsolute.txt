@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\PandemicSimulation\bin\Debug\PandemicSimulation.exe.config
+C:\Users\andre\source\repos\PandemicSimulation\bin\Debug\PandemicSimulation.exe
+C:\Users\andre\source\repos\PandemicSimulation\bin\Debug\PandemicSimulation.pdb
+C:\Users\andre\source\repos\PandemicSimulation\obj\Debug\PandemicSimulation.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\PandemicSimulation\obj\Debug\PandemicSimulation.Playground.resources
+C:\Users\andre\source\repos\PandemicSimulation\obj\Debug\PandemicSimulation.Properties.Resources.resources
+C:\Users\andre\source\repos\PandemicSimulation\obj\Debug\PandemicSimulation.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\PandemicSimulation\obj\Debug\PandemicSimulation.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\PandemicSimulation\obj\Debug\PandemicSimulation.exe
+C:\Users\andre\source\repos\PandemicSimulation\obj\Debug\PandemicSimulation.pdb
+C:\Users\andre\source\repos\PandemicSimulation\obj\Debug\PandemicSimulation.EndWindow.resources
